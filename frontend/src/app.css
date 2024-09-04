@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+.upload-section, .processed-section {
+  width: 45%;
+}
+ul {
+  list-style-type: none;
+}
+button {
+  margin-top: 20px;
+}
