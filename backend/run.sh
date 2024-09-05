@@ -1,1 +1,2 @@
-uvicorn main:app --reload
+fastapi dev
+# uvicorn main:app --reload
